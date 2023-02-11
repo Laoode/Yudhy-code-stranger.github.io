@@ -1,0 +1,21 @@
+
+.jumbotron{
+padding-top: 6rem;
+  background-color: #ccfbecdb;
+}
+img{
+  width: 180px;
+  height: 180px;
+}
+.col-4 p{
+  text-align: justify;
+}
+#projects{
+  background-color: #ccfbecdb;
+}
+section{
+  padding-top: 6rem;
+}
+.navbar-brand{
+  scroll-behavior: smooth;
+}
